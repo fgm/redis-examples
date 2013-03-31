@@ -1,0 +1,20 @@
+{
+    "name": "osinet/red-101",
+    "description": "Examples for the OSInet RED-101 course about Redis.",
+    "keywords": ["redis", "php"],
+    "license": ["GPL-3.0+"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Frédéric G. MARAND",
+            "email": "support@osinet.fr",
+            "homepage": "http://blog.riff.org",
+            "role": "Developer"
+        }
+    ],
+    
+    "require": {
+        "php": ">=5.3.0",
+        "predis/predis": "*"
+    }
+}
